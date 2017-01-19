@@ -1,0 +1,23 @@
+{
+  "name": "addargs",
+  "version": "0.0.1",
+  "description": "Add auto-ignored arguments to a function so that an external API accepts it as a callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfogelberg/addargs.git"
+  },
+  "keywords": [
+    "callbacks",
+    "javascript"
+  ],
+  "author": "Christo Fogelberg <cfogelberg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfogelberg/addargs/issues"
+  },
+  "homepage": "https://github.com/cfogelberg/addargs#readme"
+}
